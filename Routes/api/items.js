@@ -15,7 +15,7 @@ router.get('/', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-    const newItem = new Item( {
+    const newItem = new Item({
         name: req.body.name
     });
 
