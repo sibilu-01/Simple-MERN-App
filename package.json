@@ -1,6 +1,11 @@
 {
   "name": "simple-mern-app",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x",
+    "yarn": "1.x"
+  },
   "description": "",
   "main": "server.js",
   "scripts": {
