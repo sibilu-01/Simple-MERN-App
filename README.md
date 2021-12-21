@@ -1,1 +1,1 @@
-# Simple-MERN-App
+# Simple-MERN-App With Redux
